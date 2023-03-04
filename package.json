@@ -1,0 +1,20 @@
+{
+    "name": "Typescript-Project",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Naganandhini293/Typescript-Project.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Naganandhini293/Typescript-Project/issues"
+    },
+    "homepage": "https://github.com/Naganandhini293/Typescript-Project#readme"
+}
